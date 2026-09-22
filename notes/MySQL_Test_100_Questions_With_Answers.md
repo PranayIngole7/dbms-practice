@@ -7,575 +7,581 @@
 ## SECTION A – DBMS (Q1–Q10)
 
 Q1. What does DBMS stand for?
-A. Database Management System ✅
-B. Data Backup Management System
-C. Database Monitoring System
-D. Data Management Software
+1. Database Management System ✅
+2. Data Backup Management System
+3. Database Monitoring System
+4. Data Management Software
 
 Q2. What is the primary purpose of a DBMS?
-A. To create websites
-B. To manage and organize data ✅
-C. To design images 
-D. To compile programs
+1. To create websites
+2. To manage and organize data ✅
+3. To design images 
+4. To compile programs
 
 Q3. Which of the following is an example of a DBMS?
-A. MySQL ✅
-B. HTML
-C. CSS
-D. JavaScript
+1. MySQL ✅
+2. HTML
+3. CSS
+4. JavaScript
 
 Q4. Which component is responsible for storing and managing data in a DBMS?
-A. Database Storage Engine ✅
-B. Browser
-C. Compiler
-D. Operating System only
+1. Database Storage Engine ✅
+2. Browser
+3. Compiler
+4. Operating System only
 
 Q5. Which of the following is a benefit of a DBMS?
-A. Data redundancy can be reduced ✅
-B. Data cannot be shared
-C. Data must always be duplicated
-D. Security cannot be implemented
+1. Data redundancy can be reduced ✅
+2. Data cannot be shared
+3. Data must always be duplicated
+4. Security cannot be implemented
 
 Q6. What is data redundancy?
-A. Data encryption
-B. Unnecessary duplication of data ✅
-C. Data deletion
-D. Data sorting
+1. Data encryption
+2. Unnecessary duplication of data ✅
+3. Data deletion
+4. Data sorting
 
 Q7. Which language is commonly used to communicate with relational databases?
-A. SQL ✅
-B. HTML
-C. CSS
-D. XML
+1. SQL ✅
+2. HTML
+3. CSS
+4. XML
 
 Q8. Which database model stores data in tables?
-A. Relational model ✅
-B. Hierarchical model only
-C. Network model only
-D. File model
+1. Relational model ✅
+2. Hierarchical model only
+3. Network model only
+4. File model
 
 Q9. What is a database?
-A. A collection of organized data ✅
-B. A programming language
-C. An operating system
-D. A web browser
+1. A collection of organized data ✅
+2. A programming language
+3. An operating system
+4. A web browser
 
 Q10. Which feature helps protect unauthorized access to database data?
-A. Database security ✅
-B. Data duplication
-C. Data formatting
-D. Data sorting
+1. Database security ✅
+2. Data duplication
+3. Data formatting
+4. Data sorting
 ---
 
 ## SECTION B – RDBMS (Q11–Q20)
 
 Q11. What does RDBMS stand for?
-A. Relational Database Management System ✅
-B. Remote Database Management System
-C. Relational Data Backup Management System
-D. Rapid Database Management System
+1. Relational Database Management System ✅
+2. Remote Database Management System
+3. Relational Data Backup Management System
+4. Rapid Database Management System
 
 Q12. In an RDBMS, data is primarily stored in:
-A. Tables ✅
-B. Images
-C. Files only
-D. Web pages
+1. Tables ✅
+2. Images
+3. Files only
+4. Web pages
 
 Q13. A row in a relational table is also called a:
-A. Attribute
-B. Record ✅
-C. Column
-D. Field type
+1. Attribute
+2. Record ✅
+3. Column
+4. Field type
 
 Q14. A column in a relational table is also called a:
-A. Record
-B. Tuple
-C. Attribute ✅
-D. Database
+1. Record
+2. Tuple
+3. Attribute ✅
+4. Database
 
 Q15. Which key uniquely identifies each record in a table?
-A. Foreign Key
-B. Primary Key ✅
-C. Candidate Key only
-D. Alternate Key only
+1. Foreign Key
+2. Primary Key ✅
+3. Candidate Key only
+4. Alternate Key only
 
 Q16. Which key is used to establish a relationship between two tables?
-A. Primary Key
-B. Foreign Key ✅
-C. Super Key
-D. Unique Key
+1. Primary Key
+2. Foreign Key ✅
+3. Super Key
+4. Unique Key
 
 Q17. Which constraint prevents duplicate values in a column?
-A. UNIQUE ✅
-B. DEFAULT
-C. CHECK
-D. NOT NULL
+1. UNIQUE ✅
+2. DEFAULT
+3. CHECK
+4. NOT NULL
 
 Q18. Can a table have more than one primary key?
-A. Yes, unlimited
-B. No, only one primary key constraint ✅
-C. Yes, exactly two
-D. Only three
+1. Yes, unlimited
+2. No, only one primary key constraint ✅
+3. Yes, exactly two
+4. Only three
 
 Q19. A primary key generally cannot contain:
-A. Integer values
-B. Duplicate values ✅
-C. String values
-D. Unique values
+1. Integer values
+2. Duplicate values ✅
+3. String values
+4. Unique values
 
 Q20. Which relationship means one record in Table A can relate to many records in Table B?
-A. One-to-one
-B. One-to-many ✅
-C. Many-to-one only
-D. None
+1. One-to-one
+2. One-to-many ✅
+3. Many-to-one only
+4. None
 ---
 
 ## SECTION C – SQL (Q21–Q30)
 
 Q21. What does SQL stand for?
-A. Structured Query Language ✅
-B. Simple Query Language
-C. Standard Question Language
-D. System Query Language
+1. Structured Query Language ✅
+2. Simple Query Language
+3. Standard Question Language
+4. System Query Language
 
 Q22. Which command is used to retrieve data?
-A. SELECT ✅
-B. GET
-C. FETCHDATA
-D. SHOWDATA
+1. SELECT ✅
+2. GET
+3. FETCHDATA
+4. SHOWDATA
 
 Q23. Which command is used to add a new record?
-A. ADD
-B. INSERT ✅
-C. CREATE
-D. UPDATE
+1. ADD
+2. INSERT ✅
+3. CREATE
+4. UPDATE
 
 Q24. Which command modifies existing records?
-A. CHANGE
-B. MODIFY
-C. UPDATE ✅
-D. ALTER 
+1. CHANGE
+2. MODIFY
+3. UPDATE ✅
+4. ALTER 
 
 Q25. Which command removes records from a table?
-A. REMOVE
-B. DELETE ✅
-C. DROP
-D. CLEAR
+1. REMOVE
+2. DELETE ✅
+3. DROP
+4. CLEAR
 
 Q26. Which SQL clause is used to filter records?
-A. WHERE ✅
-B. FILTER
-C. HAVING ONLY
-D. CONDITION
+1. WHERE ✅
+2. FILTER
+3. HAVING ONLY
+4. CONDITION
 
 Q27. Which clause is used to sort query results?
-A. SORT BY
-B. ORDER BY ✅
-C. GROUP BY 
-D. ARRANGE BY
+1. SORT BY
+2. ORDER BY ✅
+3. GROUP BY 
+4. ARRANGE BY
 
 Q28. Which clause groups rows having the same values?
-A. ORDER BY
-B. GROUP BY ✅
-C. WHERE
-D. SORT BY
+1. ORDER BY
+2. GROUP BY ✅
+3. WHERE
+4. SORT BY
 
 Q29. Which clause filters grouped results?
-A. WHERE
-B. HAVING ✅
-C. FILTER
-D. GROUP
+1. WHERE
+2. HAVING ✅
+3. FILTER
+4. GROUP
 
 Q30. Which symbol is commonly used to select all columns?
-A. #
-B. @
-C. * ✅
-D. %
+1. #
+2. @
+3. * ✅
+4. %
 ---
 
 ## SECTION D – MySQL (Q31–Q40)
 
 Q31. MySQL is primarily a:
-A. Relational Database Management System ✅
-B. Programming language
-C. Web browser
-D. Operating system
+1. Relational Database Management System ✅
+2. Programming language
+3. Web browser
+4. Operating system
 
 Q32. Which company developed MySQL?
-A. Microsoft
-B. Oracle ✅
-C. Google
-D. IBM
+1. Microsoft
+2. Oracle ✅
+3. Google
+4. IBM
 
 Q33. Which command displays available databases in MySQL?
-A. SHOW DATABASES; ✅
-B. DISPLAY DATABASES;
-C. LIST DATABASE;
-D. VIEW DATABASES;
+1. SHOW DATABASES; ✅
+2. DISPLAY DATABASES;
+3. LIST DATABASE;
+4. VIEW DATABASES;
 
 Q34. Which command selects a database for use?
-A. SELECT DATABASE
-B. USE database_name; ✅
-C. OPEN DATABASE
-D. START DATABASE
+1. SELECT DATABASE
+2. USE database_name; ✅
+3. OPEN DATABASE
+4. START DATABASE
 
 Q35. Which command displays tables in the currently selected database?
-A. SHOW TABLES; ✅
-B. DISPLAY TABLES;
-C. LIST TABLES;
-D. GET TABLES;
+1. SHOW TABLES; ✅
+2. DISPLAY TABLES;
+3. LIST TABLES;
+4. GET TABLES;
 
 Q36. Which command displays the structure of a table?
-A. STRUCTURE table_name;
-B. DESCRIBE table_name; ✅
-C. TABLEINFO table_name;
-D. SHOW STRUCTURE table_name;
+1. STRUCTURE table_name;
+2. DESCRIBE table_name; ✅
+3. TABLEINFO table_name;
+4. SHOW STRUCTURE table_name;
 
 Q37. Which port is commonly used by MySQL?
-A. 80
-B. 21
-C. 3306 ✅
-D. 8080
+1. 80
+2. 21
+3. 3306 ✅
+4. 8080
 
 Q38. Which data type is commonly used for variable-length strings?
-A. INT
-B. VARCHAR ✅
-C. DATE
-D. FLOAT
+1. INT
+2. VARCHAR ✅
+3. DATE
+4. FLOAT
 
 Q39. Which data type is commonly used to store whole numbers?
-A. INT ✅
-B. VARCHAR
-C. DATE
-D. TEXT
+1. INT ✅
+2. VARCHAR
+3. DATE
+4. TEXT
 
 Q40. Which data type stores date values?
-A. VARCHAR
-B. INT
-C. DATE ✅
-D. CHAR
+1. VARCHAR
+2. INT
+3. DATE ✅
+4. CHAR
 ---
 
 ## SECTION E – DDL COMMANDS (Q41–Q50)
 
 Q41. What does DDL stand for?
-A. Data Definition Language ✅
-B. Data Development Language
-C. Database Definition Logic
-D. Data Description Language
+1. Data Definition Language ✅
+2. Data Development Language
+3. Database Definition Logic
+4. Data Description Language
 
 Q42. Which command creates a table?
-A. MAKE TABLE
-B. CREATE TABLE ✅
-C. NEW TABLE
-D. ADD TABLE
+1. MAKE TABLE
+2. CREATE TABLE ✅
+3. NEW TABLE
+4. ADD TABLE
 
 Q43. Which command modifies the structure of an existing table?
-A. UPDATE
-B. ALTER ✅
-C. MODIFY DATA
-D. CHANGE TABLE DATA
+1. UPDATE
+2. ALTER ✅
+3. MODIFY DATA
+4. CHANGE TABLE DATA
 
 Q44. Which command permanently removes a table structure?
-A. DELETE
-B. REMOVE
-C. DROP ✅
-D. CLEAR
+1. DELETE
+2. REMOVE
+3. DROP ✅
+4. CLEAR
 
 Q45. Which command removes all rows while keeping the table structure?
-A. DROP
-B. TRUNCATE ✅
-C. DELETE DATABASE
-D. REMOVE TABLE
+1. DROP
+2. TRUNCATE ✅
+3. DELETE DATABASE
+4. REMOVE TABLE
 
 Q46. Which command creates a new database?
-A. CREATE DATABASE ✅
-B. NEW DATABASE
-C. MAKE DATABASE
-D. ADD DATABASE
+1. CREATE DATABASE ✅
+2. NEW DATABASE
+3. MAKE DATABASE
+4. ADD DATABASE
 
 Q47. Which command can add a new column to an existing table?
-A. UPDATE TABLE
-B. ALTER TABLE  ✅
-C. INSERT COLUMN
-D. CREATE COLUMN
+1. UPDATE TABLE
+2. ALTER TABLE  ✅
+3. INSERT COLUMN
+4. CREATE COLUMN
 
 Q48. Which command can rename a table in MySQL?
-A. ALTER TABLE ... RENAME TO ✅
-B. CHANGE TABLE
-C. MODIFY TABLE NAME
-D. UPDATE TABLE NAME
+1. ALTER TABLE ... RENAME TO ✅
+2. CHANGE TABLE
+3. MODIFY TABLE NAME
+4. UPDATE TABLE NAME
 
 Q49. Which of the following belongs to DDL?
-A. INSERT
-B. UPDATE
-C. CREATE ✅
-D. DELETE
+1. INSERT
+2. UPDATE
+3. CREATE ✅
+4. DELETE
 
 Q50. Which command removes the definition and data of a table?
-A. DELETE
-B. DROP ✅
-C. UPDATE
-D. SELECT
+1. DELETE
+2. DROP ✅
+3. UPDATE
+4. SELECT
 ---
 
 ## SECTION F – DML COMMANDS (Q51–Q60)
 
 Q51. What does DML stand for?
-A. Data Manipulation Language ✅
-B. Data Management Logic
-C. Database Manipulation Language
-D. Data Modification Logic
+1. Data Manipulation Language ✅
+2. Data Management Logic
+3. Database Manipulation Language
+4. Data Modification Logic
 
 Q52. Which command inserts records into a table?
-A. ADD
-B. INSERT ✅
-C. CREATE
-D. ALTER
+1. ADD
+2. INSERT ✅
+3. CREATE
+4. ALTER
 
 Q53. Which command changes existing data?
-A. UPDATE ✅
-B. ALTER
-C. MODIFY TABLE
-D. CHANGE DATABASE
+1. UPDATE ✅
+2. ALTER
+3. MODIFY TABLE
+4. CHANGE DATABASE
 
 Q54. Which command deletes selected records?
-A. DROP
-B. DELETE ✅
-C. TRUNCATE TABLE ONLY
-D. REMOVE DATABASE
+1. DROP
+2. DELETE ✅
+3. TRUNCATE TABLE ONLY
+4. REMOVE DATABASE
 
-Q55. Consider:
+Q55. 
+```sql
+Consider:
 UPDATE student
 SET city = 'Pune'
 WHERE id = 101;
+```
 What does this query do?
-A. Changes the city of student 101 to Pune ✅
-B. Deletes student 101
-C. Creates student 101
-D. Changes the student ID
+1. Changes the city of student 101 to Pune ✅
+2. Deletes student 101
+3. Creates student 101
+4. Changes the student ID
 
 Q56. What happens if a DELETE statement is executed without a WHERE clause?
-A. One record is deleted
-B. All rows are deleted ✅
-C. Table structure is deleted
-D. Database is deleted
+1. One record is deleted
+2. All rows are deleted ✅
+3. Table structure is deleted
+4. Database is deleted
 
 Q57. What happens if UPDATE is executed without a WHERE clause?
-A. No record changes
-B. Only the first record changes
-C. All rows are updated with the specified values ✅
-D. Table is dropped
+1. No record changes
+2. Only the first record changes
+3. All rows are updated with the specified values ✅
+4. Table is dropped
 
 Q58. Which statement adds a student?
-A. INSERT INTO student VALUES (1,'Rahul'); ✅
-B. ADD student VALUES (1,'Rahul');
-C. CREATE student VALUES (1,'Rahul');
-D. UPDATE student VALUES (1,'Rahul');
+1. INSERT INTO student VALUES (1,'Rahul'); ✅
+2. ADD student VALUES (1,'Rahul');
+3. CREATE student VALUES (1,'Rahul');
+4. UPDATE student VALUES (1,'Rahul');
 
 Q59. Which command is generally used to retrieve data?
-A. INSERT
-B. UPDATE
-C. SELECT ✅
-D. DELETE
+1. INSERT
+2. UPDATE
+3. SELECT ✅
+4. DELETE
 
 Q60. Which command can remove selected rows based on a condition?
-A. DELETE ✅
-B. DROP
-C. CREATE
-D. ALTER
+1. DELETE ✅
+2. DROP
+3. CREATE
+4. ALTER
 ---
 
 ## SECTION G – CONSTRAINTS (Q61–Q75)
 
 Q61. What is a constraint?
-A. A rule applied to table data ✅
-B. A programming language
-C. A database server
-D. A query editor
+1. A rule applied to table data ✅
+2. A programming language
+3. A database server
+4. A query editor
 
 Q62. Which constraint uniquely identifies each row?
-A. CHECK
-B. DEFAULT
-C. PRIMARY KEY ✅
-D. NOT NULL
+1. CHECK
+2. DEFAULT
+3. PRIMARY KEY ✅
+4. NOT NULL
 
 Q63. Which constraint prevents NULL values?
-A. NOT NULL ✅
-B. UNIQUE
-C. DEFAULT 
-D. CHECK
+1. NOT NULL ✅
+2. UNIQUE
+3. DEFAULT 
+4. CHECK
 
 Q64. Which constraint prevents duplicate values?
-A. DEFAULT
-B. UNIQUE ✅
-C. CHECK
-D. NULL
+1. DEFAULT
+2. UNIQUE ✅
+3. CHECK
+4. NULL
 
 Q65. Which constraint provides a value automatically when no value is supplied?
-A. CHECK
-B. DEFAULT ✅
-C. UNIQUE
-D. FOREIGN KEY
+1. CHECK
+2. DEFAULT ✅
+3. UNIQUE
+4. FOREIGN KEY
 
 Q66. Which constraint validates a condition on data?
-A. CHECK ✅
-B. DEFAULT
-C. PRIMARY
-D. NULL
+1. CHECK ✅
+2. DEFAULT
+3. PRIMARY
+4. NULL
 
 Q67. Which constraint maintains referential integrity?
-A. UNIQUE
-B. FOREIGN KEY ✅
-C. CHECK
-D. DEFAULT
+1. UNIQUE
+2. FOREIGN KEY ✅
+3. CHECK
+4. DEFAULT
 
-Q68. CREATE TABLE student (
+Q68. 
+```sql
+CREATE TABLE student (
     id INT PRIMARY KEY,
     name VARCHAR(50)
 );
+```
 What is the purpose of PRIMARY KEY?
-A. Allows duplicate IDs
-B. Uniquely identifies a student ✅
-C. Stores only NULL values
-D. Automatically deletes records
+1. Allows duplicate IDs
+2. Uniquely identifies a student ✅
+3. Stores only NULL values
+4. Automatically deletes records
 
 Q69. Which constraint can contain NULL values if no NOT NULL rule is specified?
-A. PRIMARY KEY
-B. Foreign key column
-C. NOT NULL
-D. None ✅
+1. PRIMARY KEY
+2. Foreign key column
+3. NOT NULL
+4. None ✅
 
 Q70. Can a table have multiple UNIQUE constraints?
-A. Yes ✅
-B. No
-C. Only one
-D. Only two
+1. Yes ✅
+2. No
+3. Only one
+4. Only two
 
 Q71. Which constraint is used to connect a child table with a parent table?
-A. CHECK
-B. FOREIGN KEY ✅
-C. DEFAULT
-D. UNIQUE
+1. CHECK
+2. FOREIGN KEY ✅
+3. DEFAULT
+4. UNIQUE
 
 Q72. What does referential integrity ensure?
-A. Valid relationships between related tables ✅
-B. Duplicate records
-C. Faster internet
-D. Automatic backups only
+1. Valid relationships between related tables ✅
+2. Duplicate records
+3. Faster internet
+4. Automatic backups only
 
 Q73. Which definition correctly creates a NOT NULL column?
-A. name VARCHAR(50) NOT NULL ✅
-B. name NOT VARCHAR(50)
-C. NOT NULL name VARCHAR(50)
-D. name VARCHAR NOT
+1. name VARCHAR(50) NOT NULL ✅
+2. name NOT VARCHAR(50)
+3. NOT NULL name VARCHAR(50)
+4. name VARCHAR NOT
 
 Q74. Which definition correctly creates a default value?
-A. city VARCHAR(30) DEFAULT 'Pune' ✅
-B. city DEFAULT VARCHAR(30)
-C. DEFAULT city VARCHAR(30)
-D. city VARCHAR(30) VALUE DEFAULT
+1. city VARCHAR(30) DEFAULT 'Pune' ✅
+2. city DEFAULT VARCHAR(30)
+3. DEFAULT city VARCHAR(30)
+4. city VARCHAR(30) VALUE DEFAULT
 
 Q75. Which constraint can be used to ensure age is greater than or equal to 18?
-A. CHECK (age >= 18) ✅
-B. DEFAULT (age >= 18)
-C. UNIQUE (age >= 18)
-D. PRIMARY (age >= 18)
+1. CHECK (age >= 18) ✅
+2. DEFAULT (age >= 18)
+3. UNIQUE (age >= 18)
+4. PRIMARY (age >= 18)
 ---
 
 ## SECTION H – OPERATORS (Q76–Q90)
 
 
 Q76. Which operator checks equality?
-A. = ✅
-B. != 
-C. <>
-D. Both A and C
+1. = ✅
+2. != 
+3. <>
+4. Both A and C
 
 Q77. Which operator means "not equal to" in MySQL?
-A. !=
-B. <>
-C. Both A and B ✅
-D. !== only
+1. !=
+2. <>
+3. Both A and B ✅
+4. !== only
 
 Q78. Which operator is used for greater than?
-A. <
-B. > ✅
-C. >=
-D. =
+1. <
+2. > ✅
+3. >=
+4. =
 
 Q79. Which operator is used for less than or equal to?
-A. <
-B. <= ✅
-C. >=
-D. <>
+1. <
+2. <= ✅
+3. >=
+4. <>
 
 Q80. Which operator is used to test whether a value falls within a range?
-A. IN
-B. BETWEEN ✅
-C. RANGE
-D. WITHIN
+1. IN
+2. BETWEEN ✅
+3. RANGE
+4. WITHIN
 
 Q81. Which operator checks whether a value exists in a specified list?
-A. IN ✅
-B. BETWEEN
-C. LIKE
-D. EXISTS ONLY
+1. IN ✅
+2. BETWEEN
+3. LIKE
+4. EXISTS ONLY
 
 Q82. Which operator is commonly used for pattern matching?
-A. LIKE ✅
-B. MATCHES
-C. PATTERN
-D. FIND
+1. LIKE ✅
+2. MATCHES
+3. PATTERN
+4. FIND
 
 Q83. In LIKE, which wildcard represents any number of characters?
-A. _ 
-B. % ✅
-C. *
-D. #
+1. _ 
+2. % ✅
+3. *
+4. #
 
 Q84. In LIKE, which wildcard represents exactly one character?
-A. %
-B. _ ✅
-C. *
-D. ? 
+1. %
+2. _ ✅
+3. *
+4. ? 
 
 Q85. Which logical operator requires both conditions to be true?
-A. OR
-B. NOT
-C. AND ✅
-D. XOR
+1. OR
+2. NOT
+3. AND ✅
+4. XOR
 
 Q86. Which logical operator requires at least one condition to be true?
-A. AND
-B. OR ✅
-C. NOT
-D. BETWEEN
+1. AND
+2. OR ✅
+3. NOT
+4. BETWEEN
 
 Q87. Which operator reverses a Boolean condition?
-A. AND
-B. OR
-C. NOT ✅
-D. IN
+1. AND
+2. OR
+3. NOT ✅
+4. IN
 
 Q88. What is the result of this condition?
-WHERE salary > 30000 AND department = 'IT'
-A. Salary must be greater than 30000 and department must be IT ✅
-B. Either condition can be false
-C. Only department is checked
-D. Only salary is checked
+> WHERE salary > 30000 AND department = 'IT'
+1. Salary must be greater than 30000 and department must be IT ✅
+2. Either condition can be false
+3. Only department is checked
+4. Only salary is checked
 
 Q89. Which query finds employees whose names start with A?
-A. SELECT * FROM employee WHERE name LIKE 'A%'; ✅
-B. SELECT * FROM employee WHERE name LIKE '%A';
-C. SELECT * FROM employee WHERE name = 'A%';
-D. SELECT * FROM employee WHERE name IN 'A%';
+1. SELECT * FROM employee WHERE name LIKE 'A%'; ✅
+2. SELECT * FROM employee WHERE name LIKE '%A';
+3. SELECT * FROM employee WHERE name = 'A%';
+4. SELECT * FROM employee WHERE name IN 'A%';
 
 Q90. Which query finds employees with salary between 30000 and 50000?
-A. WHERE salary IN 30000 TO 50000
-B. WHERE salary BETWEEN 30000 AND 50000 ✅
-C. WHERE salary RANGE 30000,50000
-D. WHERE salary = 30000 AND 50000
+1. WHERE salary IN 30000 TO 50000
+2. WHERE salary BETWEEN 30000 AND 50000 ✅
+3. WHERE salary RANGE 30000,50000
+4. WHERE salary = 30000 AND 50000
 ---
 
 ## SECTION I – THEORY QUESTIONS (Q91–Q100)
@@ -583,7 +589,7 @@ D. WHERE salary = 30000 AND 50000
 
 Q91. Explain the difference between DBMS and RDBMS.
 
-- Definition of DBMS : Software used to store, manage, and retrieve data. It stores data as flat files or in a hierarchical/network model.
+- Definition of DBMS : Software used to store, manage, and retrieve dat1. It stores data as flat files or in a hierarchical/network model.
 - Definition of RDBMS : An advanced database system based on Edgar F. Codd's relational model. It stores data explicitly in related rows and columns.
 - Data storage : DBMS stores data as flat files or trees with no enforced logical links between different data sheets. RDBMS organizes data strictly into structures called tables (relations).
 - Tables and relationships : DBMS handles data tables independently. RDBMS links tables dynamically using logical relationships (One-to-One, One-to-Many, Many-to-Many).
@@ -600,7 +606,7 @@ Q92. What is a key in a database? Explain:
 - Candidate Key : A column or minimal set of columns that qualifies to be a primary key because all its records are unique and non-null.
 - Alternate Key : Candidate keys that were not chosen as the Primary Key.
 - Composite Key : A Primary Key that consists of two or more columns combined together to ensure uniqueness.
-- Unique Key : Enforces uniqueness on a column so no duplicate values are allowed. Unlike a primary key, it can accept one NULL value. 
+- Unique Key : Enforces uniqueness on a column so no duplicate values are allowe4. Unlike a primary key, it can accept one NULL value. 
 ---
 
 Q93. What is SQL? Explain the major categories of SQL commands. Give at least two commands/examples for each category.
@@ -745,7 +751,7 @@ Explain why constraints are important in a real-world database.
 ---
 
 ### 3. Importance of Constraints in Real-World Databases
-1. **Data Integrity:** Constraints enforce strict data rules at the database level rather than relying solely on application software logic.
+1. **Data Integrity:** Constraints enforce strict data rules at the database level rather than relying solely on application software logi3.
 2. **Prevention of Invalid Data:** Rules like `CHECK` and `NOT NULL` block corruption and incomplete data input at the source.
 3. **Prevention of Duplication:** Constraints like `PRIMARY KEY` and `UNIQUE` eliminate redundant entries.
 4. **Referential Consistency:** `FOREIGN KEY` constraints preserve relations across relational tables and prevent orphan records during deletions or updates.
@@ -764,7 +770,7 @@ Q97. Explain SQL operators with examples:
 ### SQL Operators with Examples
 
 #### 1. Arithmetic Operators
-Used to perform mathematical operations on numerical data.
+Used to perform mathematical operations on numerical dat1.
 
 * `+` (Addition)
 * `-` (Subtraction)
@@ -880,7 +886,7 @@ Write SQL queries to:
 3. Display employees having salary greater than 50,000.
 4. Display employees from IT department.
 5. Display employees with experience between 2 and 5 years.
-6. Display employees whose name starts with A.
+6. Display employees whose name starts with 1.
 7. Display employees from Pune OR Mumbai.
 
 ### SQL Queries
